@@ -1,0 +1,13 @@
+.digital-clock{
+
+    border: 13px solid aquamarine;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #56af91;
+    font-size: 30px;
+    border-radius: 50%;
+    box-shadow: 36px 14px 75px 0px rgb(20, 222, 154);
+}

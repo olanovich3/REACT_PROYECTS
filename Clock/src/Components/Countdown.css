@@ -1,0 +1,14 @@
+.countdown{
+
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    border: solid 13px #fec7d7;
+    color: #d87b95;
+    box-shadow: 36px 14px 75px 0px#fec7d7;
+
+}

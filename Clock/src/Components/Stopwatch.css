@@ -1,0 +1,23 @@
+.buttons > button{
+margin-top: 3rem;
+width: 100px;
+height: 50px;
+border-radius: 40%;
+border: 3px solid #8bd3dd;
+background-color: #fef6e4;
+
+
+}
+
+.stopwatch{
+
+    margin-top: 3rem;
+    font-size: 40px;
+}
+
+.stopwatch > span{
+
+    font-size: 40px;
+    color: #fef6e4;
+
+}
