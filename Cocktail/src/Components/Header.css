@@ -1,0 +1,16 @@
+header{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    position: sticky;
+
+
+}
+
+header > img{
+
+    height: 50px;
+    width: 50px;
+}

@@ -1,0 +1,16 @@
+
+
+footer > ul{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    padding-top: 5px;
+}
+
+.contact > li> a > img{
+
+    width: 25px;
+    height: 25px;
+}

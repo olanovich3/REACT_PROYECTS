@@ -1,0 +1,92 @@
+.cocktail-detail{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+
+.information{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 48px;
+
+
+
+}
+
+.information > img{
+
+   margin: 80px;
+   width: 400px;
+   height: 400px;
+
+
+
+}
+
+.information-detail{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+    padding: 2rem;
+    margin-right: 3rem;
+    border: 2px solid #ee6352;
+    font-family: 'Julee', serif;
+    font-size: 16px;
+    background-color: #ee6352;
+   
+    border-radius: 15%;
+    letter-spacing: 3px;
+}
+
+.information-detail > a > img{
+
+    width: 50px;
+    height: 50px;
+}
+
+
+.ingredients-title{
+
+    padding: 1rem;
+    margin-left: 13rem;
+    
+}
+
+.ingredients{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ee6352;
+    color: black;
+    font-family: 'Julee', serif;
+
+}
+
+.ingredients > h2{
+
+    background-color: #ee6352;
+    color: black;
+    font-family: 'Julee', serif;
+}
+.information-detail > h2{
+
+    background-color: #ee6352;
+    font-family: 'Julee', serif;
+color: black;}
+
+.home{
+
+    margin: 1rem;
+}
+
+

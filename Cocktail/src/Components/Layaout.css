@@ -1,0 +1,7 @@
+.general{
+    display: grid;
+  grid-template-rows:
+    10vh
+    1fr
+    5vh;
+}
